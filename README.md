@@ -9,4 +9,4 @@ The Code now is *Mostly Broken* and I would love to fix it and make it an actual
 
 I would also like to add other features like a webpage to link your Google Drive, Set Question sending Days and Times, Frequency of sending check etc. to help use the bot easily.
 
-I followed multiple Youtube tutorials but the one I went to the most was by ![FreeCodeCamp](https://www.youtube.com/watch?v=SPTfmiYiuok)
+I followed multiple Youtube tutorials but the one I went to the most was by [FreeCodeCamp](https://www.youtube.com/watch?v=SPTfmiYiuok)
